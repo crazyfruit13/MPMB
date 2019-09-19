@@ -56,7 +56,7 @@ AddSubClass("bard", "college of	eloquence", {
 			name : "Undeniable Logic",
 			source : ["EH", 1],
 			minlevel : 6,
-			description : "\n   " + "You can spin words	laced with magic into a knot of reasoning that can be encouraging or impossible to follow."+
+			description : "\n   " + "You can spin words laced with magic into a knot of reasoning that can be encouraging or impossible to follow."+
 			" As a bonus action, you can expend one of your uses of Bardic Inspiration. When you do so, choose a creature you can see within 60 of you that can hear you, then roll your Bardic Inspiration die and choose one of the following:"+
 			" The creature takes psychic damage equal to the number you roll on the Bardic Inspiration die, and the creature must succeed on an Intelligence saving throw against your spell save DC or have disadvantage on the next saving throw it makes before the end of your next turn."+
 			" The creature regains hit points equal to the number you roll on the Bardic Inspiration die, and the creature has advantage on the next saving throw it makes before the end of your next turn. ",
